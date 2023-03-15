@@ -1,5 +1,13 @@
 [
   {
+    "package": "ePCR",
+    "oncran": true
+  },
+  {
+    "package": "hamlet",
+    "oncran": true
+  },
+  {
     "package": "oscar",
     "oncran": true
   }

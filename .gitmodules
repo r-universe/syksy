@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ePCR"]
+	path = ePCR
+	url = https://github.com/syksy/epcr
+	shallow = true
+	registered = true
+[submodule "hamlet"]
+	path = hamlet
+	url = https://github.com/syksy/hamlet
+	shallow = true
+	registered = true
 [submodule "oscar"]
 	path = oscar
 	url = https://github.com/syksy/oscar
